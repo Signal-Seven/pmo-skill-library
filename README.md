@@ -1,4 +1,4 @@
-# PMO Skill Library — Starter Kit
+# PMO Skill Library | Starter Kit
 ### The Agentic PMO by @thesignal7
 
 This repository contains fifteen Custom Skills for Claude that automate the
