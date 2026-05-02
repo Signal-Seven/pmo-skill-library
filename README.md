@@ -1,5 +1,5 @@
 # PMO Skill Library — Starter Kit
-### The Agentic PMO by @thesignal7
+### The Agentic PMO by @Signal-Seven
 
 This repository contains twelve Custom Skills for Claude that automate the
 core functions of an enterprise PMO and portfolio management organization.
